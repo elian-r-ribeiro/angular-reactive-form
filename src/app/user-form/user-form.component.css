@@ -1,0 +1,21 @@
+.user-form{
+    margin-left: 650px;
+}
+
+.name-input{
+    border-radius: 10px;
+    width: 500px;
+    text-align: center;
+}
+
+.email-input{
+    border-radius: 10px;
+    width: 500px;
+    text-align: center;
+}
+
+.send-button{
+    border-radius: 10px;
+    width: 510px;
+    cursor: pointer;
+}
